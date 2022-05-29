@@ -16,7 +16,7 @@
       "required": false
     },
     "WS_PATH": {
-      "description": "websocket路径",
+      "description": "w",
       "value": "/helloworld",
       "required": true
     }
